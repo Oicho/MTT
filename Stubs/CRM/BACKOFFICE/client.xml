@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>hum</name>
+    <type queueName="test">asynch</type>
+<message mediatype="application/json" >
+    {"Profil Client":[
+    {"client_id":'19714'},
+    {"typologie":'Célibataire'},
+    {"typedemande":'immédiat' },
+    {"rib_id":'1234-5678-9874-7653-1234' },
+    ]}
+</message>
+</stub>
