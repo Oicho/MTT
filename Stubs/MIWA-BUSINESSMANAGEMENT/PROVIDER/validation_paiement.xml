@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>validation_paiement</name>
+    <type endpoint="/miwa/api/time">synch</type>
+    <message mediatype="application/json">{
+    "_comment" : "format envoi d'une validation de paiement au fournisseur",
+    "provider_id" : "1",
+    "bill_reference": "MIWA_FACTURE_0000001",
+    "debit_card_number" : "1234-5678-9012-3456",
+    "date" : "12:17 05/01/2016"
+}</message>
+</stub>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>accuse_recption</name>
+    <type endpoint="/miwa/api/time">synch</type>
+    <message mediatype="application/json">{
+    "_comment" : "format accusé réception d'une livraison fournisseur de l'entrepôt",
+    "provider_id":"1",
+    "command_id":"1",
+    "delivery_reception_date":"04/01/2016",
+    "articles":
+    [
+        {
+            "article_id":"1",
+            "price":"120",
+            "quantity":"100"
+        },
+        {
+            "article_id":"2",
+            "price":"100",
+            "quantity":"200"
+        }
+    ]
+}</message>
+</stub>
+
