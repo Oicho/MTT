@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+  <name>impression_coupons</name>
+  <type endpoint="/miwa/api/time">synch</type>
+  <message mediatype="application/json">{
+
+    "demande_impression_coupons" :
+    {
+    "client_id":"124",
+    "ticket_id":"4202",
+    "coupons":[
+    {
+    "article_id":"1",
+    "price":"2"
+    },
+    {
+    "article_id":"7",
+    "price":"15"
+    },
+    {
+    "article_id":"6",
+    "price":"275"
+    },
+    {
+    "article_id":"10",
+    "price":"9000"
+    }
+    ]
+    }
+    }</message>
+</stub>

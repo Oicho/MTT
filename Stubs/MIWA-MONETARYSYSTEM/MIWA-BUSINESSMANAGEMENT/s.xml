@@ -2,5 +2,5 @@
 <stub>
   <name>s</name>
   <type endpoint="/miwa/api/time">synch</type>
-  <message>{"speed":3}</message>
+  <message mediatype="application/json">{"speed":3}</message>
 </stub>

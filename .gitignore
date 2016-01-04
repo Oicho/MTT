@@ -14,7 +14,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-
+MTT.iml
 ##################################################################
 ######################## Maven.gitignore
 ##################################################################
@@ -33,7 +33,7 @@ release.properties
 
 # web application files
 /web-app/WEB-INF/classes
-/application.properties
+*.properties
 # default HSQL database files for production mode
 /prodDb.*
 

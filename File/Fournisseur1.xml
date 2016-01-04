@@ -1,0 +1,25 @@
+<xml>
+	<fournisseur>
+		<nom_fournisseur>Fournisseur1</nom_fournisseur>
+		<liste_produit>
+			<produit>
+				<reference_produit>TOM001</reference_produit>
+				<designation_produit>Tomate</designation_produit>
+				<description_produit>Fruits rouge</description_produit>
+				<prix_fournisseur_produit>10</prix_fournisseur_produit>
+			</produit>
+			<produit>
+				<reference_produit>PAT001</reference_produit>
+				<designation_produit>Pomme de terre</designation_produit>
+				<description_produit>Jaune</description_produit>
+				<prix_fournisseur_produit>20</prix_fournisseur_produit>
+			</produit>
+			<produit>
+				<reference_produit>SAL001</reference_produit>
+				<designation_produit>Laitue</designation_produit>
+				<description_produit>Salade verte</description_produit>
+				<prix_fournisseur_produit>5</prix_fournisseur_produit>
+			</produit>
+		</liste_produit>
+	</fournisseur>
+</xml>

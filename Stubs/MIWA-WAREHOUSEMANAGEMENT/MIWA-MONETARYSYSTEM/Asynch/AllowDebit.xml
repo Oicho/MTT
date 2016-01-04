@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>AllowDebit to Monetique</name>
+    <type queueName="AllowDebit">asynch</type>
+    <message>{"client_ID":1,"command_ID":1}</message>
+</stub>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+  <name>demande_reassort</name>
+  <type endpoint="/miwa/api/time">synch</type>
+  <message mediatype="application/json">{
+    "demande_reassort" : {
+    "magasin_id":"2",
+    "commande_id":"45",
+
+    "articles":[
+
+    { "article_id":"12",
+    "quantity":"20"  },
+
+    { "article_id":"8",
+    "quantity":"30"  },
+
+    { "article_id":"22",
+    "quantity":"20"  },
+
+    { "article_id":"42",
+    "quantity":"10"}
+
+    ]
+    }
+    }</message>
+</stub>

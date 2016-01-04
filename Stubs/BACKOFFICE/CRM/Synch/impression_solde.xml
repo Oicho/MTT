@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+  <name>impression_solde</name>
+  <type endpoint="/miwa/api/time">synch</type>
+  <message>1</message>
+</stub>

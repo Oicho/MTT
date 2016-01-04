@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>ticket_caisse</name>
+    <type>asynch</type>
+    <message mediatype="application/json">{
+        "ticket_caisse" : {
+        "client_id":"103",
+        "ticket_id":"4202",
+        "magasin_id":"1",
+        "ticket_date":"15:54 08/12/2015",
+        "isfidelise":"false",
+        "total":"20",
+        "articles":[
+        {
+        "article_id":"1",
+        "price":"3",
+        "quantity":"2"
+        },
+        {
+        "article_id":"9",
+        "price":"4",
+        "quantity":"1"
+        },
+        {
+        "article_id":"8",
+        "price":"10",
+        "quantity":"1"
+        }
+        ]
+        }
+        }</message>
+</stub>

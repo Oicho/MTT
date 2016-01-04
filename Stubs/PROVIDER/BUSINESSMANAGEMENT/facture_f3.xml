@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+<name>hum</name>
+<type queueName="test">asynch</type>
+<message>{
+    "fournisseur_id":"Fournisseur3",
+    "id_fact" : "3",
+    "articles":[
+    {
+    "article_id":"SAL001",
+    "price_unit":"8",
+    "quantity":"100",
+    "price_total":"800"
+    },
+    {
+    "article_id":"SAL002",
+    "price":"12",
+    "quantity":"100",
+    "price_total":"1200"
+    }
+    ],
+    "price_total": "2000"
+    }
+</message>
+</stub>
+

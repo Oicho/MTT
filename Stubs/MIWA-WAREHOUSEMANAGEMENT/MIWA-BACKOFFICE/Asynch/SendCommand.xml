@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>SendCommand to BackOffice</name>
+    <type queueName="SendCommand">asynch</type>
+    <message>{
+        "Date_envoi"="04/01/2016",
+        "Ref_commande"=3,
+        "Date_réception"= "05/01/2016",
+        "Produits"= [
+        {"product_ID"=3, "product_quantity"=21},
+        {"product_ID"=2, "product_quantity"=2},
+        {"product_ID"=1, "product_quantity"=398}
+        ],
+        "Type_commande"= "reassort",
+        "Etablissement_livré"= "backoffice-3"
+        }
+    </message>
+</stub>

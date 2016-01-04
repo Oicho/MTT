@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+  <name>etat_stocks</name>
+  <type endpoint="/miwa/api/time">synch</type>
+  <message mediatype="application/json">{
+    "etat_stocks" : {
+    "magasin_id":"1",
+    "articles":[
+    {
+    "article_id":"1",
+    "quantity":"23"
+    },
+    {
+    "article_id":"2",
+    "quantity":"12"
+    },
+    {
+    "article_id":"3",
+    "quantity":"96"
+    },
+    {
+    "article_id":"4",
+    "quantity":"0"
+    },
+    {
+    "article_id":"5",
+    "quantity":"0"
+    },
+    {
+    "article_id":"6",
+    "quantity":"3"
+    },
+    {
+    "article_id":"7",
+    "quantity":"54"
+    },
+    {
+    "article_id":"8",
+    "quantity":"23"
+    },
+    {
+    "article_id":"9",
+    "quantity":"12"
+    },
+    {
+    "article_id":"10",
+    "quantity":"48"
+    }
+    ]
+    }
+    }
+  </message>
+</stub>
