@@ -5,7 +5,7 @@
     <message mediatype="application/json">
         {"Promotion client":[
             {"client_id":"19714",
-            "remise_id":"35"},
+            "promotion":"35"},
         ]}
     </message>
 </stub>
