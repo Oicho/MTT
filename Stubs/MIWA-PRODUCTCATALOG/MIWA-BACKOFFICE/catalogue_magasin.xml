@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+	<name>send catalogue_magasin to BackOffice</name>
+	<type queueName="catalogueMagasin_1">asynch</type>
+	<message>
+		<![CDATA[
+		<liste_produit>
+			<produit>
+				<reference_produit>reference_produit_1</reference_produit>
+				<designation_produit>designation_produit_1</designation_produit>
+				<description_produit>description_produit_1</description_produit>
+				<prix_global_produit>prix_global_produit_1</prix_global_produit>
+				<promotion_globale_produit>promotion_globale_produit_1</promotion_globale_produit>
+				<categorie_produit>categorie_produit_1</categorie_produit>
+			</produit>
+			<produit>
+				<reference_produit>reference_produit_5</reference_produit>
+				<designation_produit>designation_produit_5</designation_produit>
+				<description_produit>description_produit_5</description_produit>
+				<prix_global_produit>prix_global_produit_5</prix_global_produit>
+				<promotion_globale_produit>promotion_globale_produit_5</promotion_globale_produit>
+				<categorie_produit>categorie_produit_5</categorie_produit>
+			</produit>
+		</liste_produit>
+		]]>
+	</message>
+</stub>
+
+
+
+
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>etat_stock_magasin</name>
+    <type endpoint="/miwa/api/time">asynch</type>
+    <message mediatype="application/json">{
+        "_comment" : "format d'envoi du stock logique ou physique des back offices",
+        "inventory_id" : "2",
+        "shop_id": "2",
+        "date_of_inventory" : "12:17 12/12/2015",
+        "articles" :
+        [
+            {
+                "article_id" : "3",
+                "selling_price": "67",
+                "buying_price": "62",
+                "quantity": "12"
+            },
+            {
+                "article_id" : "4",
+                "selling_price": "50",
+                "buying_price": "30",
+                "quantity": "27"
+            }
+        ]
+        }</message>
+</stub>

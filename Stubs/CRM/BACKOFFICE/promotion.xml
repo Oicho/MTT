@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>promotion</name>
+    <type queueName="promotion">asynch</type>
+    <message mediatype="application/json">
+        {"Promotion client":[
+            {"client_id":"19714"},
+            {"remise_id":"35"},
+        ]}
+    </message>
+</stub>

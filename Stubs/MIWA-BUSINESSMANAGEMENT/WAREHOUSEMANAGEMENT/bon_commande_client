@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+<name>bon_commande_client</name>
+<type endpoint="/miwa/api/time">synch</type>
+<message mediatype="application/json">{
+    "_comment" : "format bon de commande d'un client.",
+    "command_id" : "4",
+    "delivery_date":"09/01/2016"
+    "reception_date ":"12/01/2016",
+    "delivery_type" : "client",
+    "delivery_address": "entrepot",
+    "articles" :
+    [
+    {
+    "article_id" : "XXX",
+    "quantity": "XXX"
+    },
+    {
+    "article_id" : "YYY",
+    "quantity": "YYY"
+    }
+    ]
+    }</message>
+</stub>

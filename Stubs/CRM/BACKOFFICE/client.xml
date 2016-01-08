@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>client</name>
+    <type queueName="client">asynch</type>
+    <message mediatype="application/json">
+        {"Profil Client":[
+        {"client_id":'19714"},
+        {"typologie":'Célibataire'},
+        {"typedemande":'immédiat'},
+        {"rib_id": "9900-6543-4797-0009-15" },
+        ]}
+    </message>
+</stub>

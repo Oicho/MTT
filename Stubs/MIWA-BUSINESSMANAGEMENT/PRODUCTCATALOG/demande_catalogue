@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>demande_catalogue</name>
+    <type endpoint="/miwa/api/time">asynch</type>
+    <message mediatype="application/json">{
+        "_comment" : "format envoi d'une demande de catalogue fournisseur ou client au référentiel",
+        "catalogue_type" : "client",
+        "date" : "10:12 07/01/2016"}</message>
+</stub>

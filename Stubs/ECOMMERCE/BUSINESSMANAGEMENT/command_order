@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>command_order_stub</name>
+    <!-- Queue a changer avec votre nom -->
+    <type queueName="test">asynch</type>
+    <message>
+        {
+        "_comment" : "Envoi d'un bon de commande vers le système d'appro"
+        "Id_client" : "1",
+        "Id_order" : "1",
+        "Articles" :
+            [
+                 {
+                    "id_article" : "1",
+                    "Quantity" : "3",
+                    "Price" : "45"
+                 },
+
+                {
+                    "id_article" : "2",
+                    "Quantity" : "1",
+                    "Price" : "89.74"
+                }
+            ]
+        "Date_order" : "20/12/2015",
+        "Place" : "LILLE",
+        "Delivery_mode" : "Store"
+        }
+    </message>
+</stub>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>article_disponible_pickandgo</name>
+    <type endpoint="/miwa/api/time">asynch</type>
+    <message mediatype="application/json">{
+    "_comment" : "format articles disponible pick and go pour site web",
+    "date" : "12:45 23/12/2015",
+    "articles_available_pick_go" :
+    [
+        {
+            "article_id" : "9",
+            "price": "56",
+            "quantity": "32",
+            "shop_id" : "1"
+        },
+        {
+            "article_id" : "7",
+            "price": "46",
+            "quantity": "12",
+            "shop_id" : "2"
+        }
+    ]
+        }</message></stub>

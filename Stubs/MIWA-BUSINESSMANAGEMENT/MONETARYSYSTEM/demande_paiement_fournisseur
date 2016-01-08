@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>demande_paiement_fournisseur</name>
+    <type endpoint="/miwa/api/time">asynch</type>
+    <message mediatype="application/json">{
+        "_comment" : "format envoi d'une demande de paiement fournisseur à la monétique",
+        "id_facture" : "2",
+        "Num_societe": "732 829 320 00074",
+        "Montant" : "689"
+        }</message>
+</stub>

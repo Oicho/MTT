@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>rating</name>
+    <type endpoint="/miwa/api/time">synch</type>
+    <message mediatype="application/json">
+        {"Demande Risque crédit":[
+            {"client_id":"19714"},
+        ]}
+    </message>
+</stub>

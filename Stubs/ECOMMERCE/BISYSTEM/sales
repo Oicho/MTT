@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>sales_stub</name>
+    <type queueName="test">asynch</type>
+    <message>
+        {
+    "_comment" : "Envoi des ventes du site web"
+            "articles" : [
+            {
+                "article_id" : "3",
+                "price" : "24.25",
+                "quantity" : "1"
+            },
+            {
+                "article_id" : "1",
+                "price" : "54",
+                "quantity" : "2"
+            },
+            {
+                "article_id" : "2",
+                "price" : "5",
+                "quantity" : "5"
+            }
+                        ]
+        }
+    </message>
+</stub>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>avis_livraison</name>
+    <type endpoint="/miwa/api/time">synch</type>
+    <message mediatype="application/json">{
+        "_comment" : "format envoi avis de livraison à l'entrepôt fournisseur",
+        "command_id":"1",
+        "delivery_date": "06/01/2016",
+        "delivery_address":"entrepot"}
+    </message>
+</stub>

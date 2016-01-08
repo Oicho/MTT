@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>avis_livraison</name>
+    <type endpoint="/miwa/api/time">asynch</type>
+    <message mediatype="application/json">{
+        "commande_id":"XXX",
+        "articles":[
+            {
+                "article_id":"1",
+                "quantity":"120"
+            },
+            {
+                "article_id":"3",
+                "quantity":"90"
+            },
+        ]
+    }</message>
+</stub>
