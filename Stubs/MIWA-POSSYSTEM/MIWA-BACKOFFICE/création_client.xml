@@ -3,15 +3,18 @@
     <name>création profil client</name>
     <type queueName="test">asynch</type>
     <message>
-        {
-        "idClient" : "1",
-        "idmagasin": "1",
-        "Date de naissance": "17/07/1992",
-        "Sexe " : "F",
-        "Email": "toto@gmail.com",
-        "Adresse" : "voltaire paris",
-        "Statut" : "entreprise",
-        "Fidelisé" : "oui"
+        {"Client": {
+        "magasin_id":"1",
+        "date_de_naissance": "17/07/1992",
+        "sexe": "F",
+        "email": "toto@gmail.com",
+        "adresse" : {
+        "idRue" : "rue voltaire",
+        "idVille" : "Paris",
+        "idCodePostal" : "75016"
+        },
+        "isfidelise" : "true"
+        }
         }
     </message>
 </stub>
