@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+<name>demande de paiement</name>
+<type endpoint="/miwa/api/time">synch</type>
+<message mediatype="application/json">
+    {
+    "Carte bancaire" : {
+    "Numero" :"00000000001",
+    "Code" : "0000",
+    "Carte société" : "OUI"
+    },
+    "Id_client" : "1",
+    "Montant" : "60"
+    }
+
+</message>
+</stub>
