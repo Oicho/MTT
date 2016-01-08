@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>création profil client</name>
+    <type queueName="test">asynch</type>
+    <message>
+        {
+        "idClient" : "1",
+        "idmagasin": "1",
+        "Date de naissance": "17/07/1992",
+        "Sexe " : "F",
+        "Email": "toto@gmail.com",
+        "Adresse" : "voltaire paris",
+        "Statut" : "entreprise",
+        "Fidelisé" : "oui"
+        }
+    </message>
+</stub>
