@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>creation_client</name>
-    <type>asynch</type>
+    <type queueName="creation_client">asynch</type>
     <message mediatype="application/json">{"client":
         {
         "client_id_local":"142",
