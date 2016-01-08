@@ -9,11 +9,11 @@
         "date_de_naissance": "20/08/1923",
         "sexe": "H",
         "email": "noel@flantier.fr",
-        "adresse"	:[
-        {"idRue" : "rue du bois fleuri"},
-        {"IdVille" : "Reims"},
-        {"idCodePostal" : "51100"}
-        ]        ,
+        "adresse"	: {
+        "idRue" : "rue du bois fleuri",
+        "idVille" : "Reims",
+        "idCodePostal" : "51100"
+        },
         "isfidelise" : "false"
         }
         }
