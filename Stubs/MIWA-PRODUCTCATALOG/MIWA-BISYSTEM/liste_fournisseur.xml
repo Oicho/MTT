@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+	<name>send liste produit to BI</name>
+	<type queueName="listeProduitBI">asynch</type>
+	<message>
+		<![CDATA[
+		<liste_catalogue_fournisseur>
+			<fournisseur>
+				<nom_fournisseur_>fournisseur_1</nom_fournisseur>
+				<produit>
+					<reference_produit>0000001</reference_fournisseur>
+					<designation_produit>designation_produit_1</designation_produit>
+					<description_produit>description_produit_1</description_produit>
+					<fournisseur_produit>fournisseur_1</fournisseur_produit>
+					<prix_fournisseur_produit>100</prix_fournisseur_produit>
+				</produit>
+				<produit>
+					<reference_produit>0000005</reference_fournisseur>
+					<designation_produit>designation_produit_5</designation_produit>
+					<description_produit>description_produit_5</description_produit>
+					<fournisseur_produit>fournisseur_5</fournisseur_produit>
+					<prix_fournisseur_produit>prix_fournisseur_produit</prix_fournisseur_produit>
+				</produit>
+			<fournisseur>
+			<fournisseur>
+				<nom_fournisseur_>fournisseur_2</nom_fournisseur>
+				<produit>
+					<reference_produit>0000001</reference_fournisseur>
+					<designation_produit>designation_produit_1</designation_produit>
+					<description_produit>description_produit_1</description_produit>
+					<fournisseur_produit>fournisseur_1</fournisseur_produit>
+					<prix_fournisseur_produit>100</prix_fournisseur_produit>
+				</produit>
+				<produit>
+					<reference_produit>0000005</reference_fournisseur>
+					<designation_produit>designation_produit_5</designation_produit>
+					<description_produit>description_produit_5</description_produit>
+					<fournisseur_produit>fournisseur_5</fournisseur_produit>
+					<prix_fournisseur_produit>prix_fournisseur_produit</prix_fournisseur_produit>
+				</produit>
+			<fournisseur>
+		</liste_catalogue_fournisseur>
+		]]>
+	</message>
+</stub>
+
+
+
+
