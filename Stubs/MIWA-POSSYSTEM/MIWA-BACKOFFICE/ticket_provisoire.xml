@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+<name>ticket provisoire</name>
+<type endpoint="/miwa/api/time">synch</type>
+<message mediatype="application/json">
+    {
+    "client_id":"1",
+    "ticket_id":"1",
+    "magasin_id":"1",
+    "ticket_date":"10:15 04/01/2016",
+    "isfidelise" : "OUI",
+    "total": "60",
+    "articles":[
+    {
+    "article_id":"1",
+    "price":"30",
+    "quantity":"1"
+    },
+    {
+    "article_id":"2",
+    "price":"15",
+    "quantity":"2"
+    }
+    ]
+    }
+
+    </message>
+</stub>
