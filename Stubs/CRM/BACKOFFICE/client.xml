@@ -9,5 +9,20 @@
         {"typedemande":'immédiat'},
         {"rib_id": "9900-6543-4797-0009-15" },
         ]}
+        {"Client": {
+        "client_id_local":"1",
+        "magasin_id":"1",
+        "date_de_naissance": "17/07/1992",
+        "sexe": "F",
+        "email": "toto@gmail.com",
+        "adresse" : {
+        "idRue" : "rue Voltaire",
+        "idVille" : "Paris",
+        "idCodePostal" : "75013"
+        },
+        "isfidelise" : "true"
+        }
+        }
+
     </message>
 </stub>
