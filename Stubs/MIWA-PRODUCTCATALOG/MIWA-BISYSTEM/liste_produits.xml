@@ -6,7 +6,7 @@
 		<![CDATA[
 		<liste_produit>
 			<produit>
-				<reference_produit>0000001</reference_fournisseur>
+				<reference_produit>0000001</reference_produit>
 				<designation_produit>designation_produit_1</designation_produit>
 				<description_produit>description_produit_1</description_produit>
 				<categorie_produit>categorie_produit_1</categorie_produit>
@@ -14,7 +14,7 @@
 				<promotion_globale_produit>10</promotion_globale_produit>
 			</produit>
 			<produit>
-				<reference_produit>0000005</reference_fournisseur>
+				<reference_produit>0000005</reference_produit>
 				<designation_produit>designation_produit_5</designation_produit>
 				<description_produit>description_produit_5</description_produit>
 				<categorie_produit>categorie_produit_5</categorie_produit>

@@ -6,39 +6,39 @@
 		<![CDATA[
 		<liste_catalogue_fournisseur>
 			<fournisseur>
-				<nom_fournisseur_>fournisseur_1</nom_fournisseur>
+				<nom_fournisseur>fournisseur_1</nom_fournisseur>
 				<produit>
-					<reference_produit>0000001</reference_fournisseur>
+					<reference_produit>0000001</reference_produit>
 					<designation_produit>designation_produit_1</designation_produit>
 					<description_produit>description_produit_1</description_produit>
 					<fournisseur_produit>fournisseur_1</fournisseur_produit>
 					<prix_fournisseur_produit>100</prix_fournisseur_produit>
 				</produit>
 				<produit>
-					<reference_produit>0000005</reference_fournisseur>
+					<reference_produit>0000005</reference_produit>
 					<designation_produit>designation_produit_5</designation_produit>
 					<description_produit>description_produit_5</description_produit>
 					<fournisseur_produit>fournisseur_5</fournisseur_produit>
 					<prix_fournisseur_produit>prix_fournisseur_produit</prix_fournisseur_produit>
 				</produit>
+			</fournisseur>
 			<fournisseur>
-			<fournisseur>
-				<nom_fournisseur_>fournisseur_2</nom_fournisseur>
+				<nom_fournisseur>fournisseur_2</nom_fournisseur>
 				<produit>
-					<reference_produit>0000001</reference_fournisseur>
+					<reference_produit>0000001</reference_produit>
 					<designation_produit>designation_produit_1</designation_produit>
 					<description_produit>description_produit_1</description_produit>
 					<fournisseur_produit>fournisseur_1</fournisseur_produit>
 					<prix_fournisseur_produit>100</prix_fournisseur_produit>
 				</produit>
 				<produit>
-					<reference_produit>0000005</reference_fournisseur>
+					<reference_produit>0000005</reference_produit>
 					<designation_produit>designation_produit_5</designation_produit>
 					<description_produit>description_produit_5</description_produit>
 					<fournisseur_produit>fournisseur_5</fournisseur_produit>
 					<prix_fournisseur_produit>prix_fournisseur_produit</prix_fournisseur_produit>
 				</produit>
-			<fournisseur>
+			</fournisseur>
 		</liste_catalogue_fournisseur>
 		]]>
 	</message>
