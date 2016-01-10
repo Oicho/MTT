@@ -2,7 +2,7 @@ package com.miwa.mtt;
 
 import com.miwa.mtt.util.ApplicationProperties;
 
-import java.io.File;
+
 import java.io.FileNotFoundException;
 
 public class Main {
