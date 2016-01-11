@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
   <name>demande_reassort</name>
-  <type endpoint="/miwa/api/time">synch</type>
+  <type queueName="demande_reassort">asynch</type>
   <message mediatype="application/json">{
     "demande_reassort" : {
     "magasin_id":"2",

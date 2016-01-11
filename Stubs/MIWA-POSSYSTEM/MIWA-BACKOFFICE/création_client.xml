@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
-    <name>client</name>
-    <type queueName="client">asynch</type>
-    <message mediatype="application/json">
+    <name>création profil client</name>
+    <type queueName="test">asynch</type>
+    <message>
         {"Client": {
-        "client_id_local":"1",
         "magasin_id":"1",
         "date_de_naissance": "17/07/1992",
         "sexe": "F",
         "email": "toto@gmail.com",
         "adresse" : {
-        "idRue" : "rue Voltaire",
+        "idRue" : "rue voltaire",
         "idVille" : "Paris",
-        "idCodePostal" : "75013"
+        "idCodePostal" : "75016"
         },
         "isfidelise" : "true"
         }
         }
-
     </message>
 </stub>
