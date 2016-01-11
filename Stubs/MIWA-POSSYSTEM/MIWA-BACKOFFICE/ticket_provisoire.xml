@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
-<name>ticket provisoire</name>
-<type endpoint="/miwa/api/time">synch</type>
-<message mediatype="application/json">
-    {
-    "idFidelite":"1",
-    "magasin_id":"1",
-    "ticket_date":"10:15 04/01/2016",
-    "total": "60",
-    "articles":[
-    {
-    "article_id":"1",
-    "price":"30",
-    "quantity":"1"
-    },
-    {
-    "article_id":"2",
-    "price":"15",
-    "quantity":"2"
-    }
-    ]
-    }
-
+    <name>ticket provisoire</name>
+    <type endpoint="/BO">synch</type>
+    <message mediatype="application/json" method="POST">
+        {
+        "idFidelite":"1",
+        "magasin_id":"1",
+        "ticket_date":"10:15 04/01/2016",
+        "total": "60",
+        "articles":[
+        {
+        "article_id":"1",
+        "price":"30",
+        "quantity":"1"
+        },
+        {
+        "article_id":"2",
+        "price":"15",
+        "quantity":"2"
+        }
+        ]
+        }
     </message>
 </stub>
