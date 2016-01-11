@@ -4,6 +4,8 @@
     <type queueName="creation">asynch</type>
     <message>
         {
+        "nom":"Flantier",
+        "prenom":"Noel",
         "magasin_id":"1",
         "date_de_naissance": "17/07/1992",
         "sexe": "F",

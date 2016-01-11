@@ -4,6 +4,8 @@
     <type queueName="client">asynch</type>
     <message mediatype="application/json">
         {
+            "nom":"Flantier",
+            "prenom":"Noel",
             "client_id_local":"1",
             "magasin_id":"1",
             "idFidelite" : "12"

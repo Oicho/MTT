@@ -4,6 +4,8 @@
     <type queueName="creation_client">asynch</type>
     <message mediatype="application/json">{"client":
         {
+        "nom":"Flantier",
+        "prenom":"Noel",
         "client_id_local":"142",
         "magasin_id":"1",
         "date_de_naissance": "20/08/1923",
