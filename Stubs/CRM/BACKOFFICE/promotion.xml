@@ -4,8 +4,8 @@
     <type queueName="test">asynch</type>
     <message mediatype="application/json" >
 {"Promotion client":[
-        {"client_id":'19714'},
-        {"remise_id":'50% de remise sur le lait'},
+        "client_id":'19714',
+        "remise_id":'50% de remise sur le lait'
         ]}
     </message>
 </stub>
