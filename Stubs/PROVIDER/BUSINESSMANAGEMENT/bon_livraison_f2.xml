@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>hum</name>
-    <type queueName="test">asynch</type>
+    <type queueName="provider_livraison">asynch</type>
     <message>{
         "fournisseur_id":"Fournisseur2",
         "id_livr" : "2",

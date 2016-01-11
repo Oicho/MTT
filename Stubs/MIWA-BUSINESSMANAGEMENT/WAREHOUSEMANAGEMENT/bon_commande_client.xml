@@ -3,21 +3,21 @@
     <name>bon_commande_client</name>
     <type endpoint="/BUSINESSMANAGEMENT/bon_commande_client">synch</type>
     <message mediatype="application/json">{
-        "_comment" : "format bon de commande d'un client.",
-        "command_id" : "4",
+        "_comment" : "Livraison de TOMTOMS et Saumon",
+        "command_ref" : "201601040001",
         "delivery_date":"09/01/2016",
         "reception_date":"12/01/2016",
         "delivery_type" : "client",
-        "delivery_address": "entrepot",
+        "delivery_address": "15 Rue Guy Moquet, Villejuif, 94800",
         "articles" :
         [
         {
-        "article_ref" : "XXX",
-        "quantity": "XXX"
+        "article_ref" : "TOM003",
+        "quantity": "3"
         },
         {
-        "article_ref" : "YYY",
-        "quantity": "YYY"
+        "article_ref" : "SAL002",
+        "quantity": "10"
         }
         ]
         }

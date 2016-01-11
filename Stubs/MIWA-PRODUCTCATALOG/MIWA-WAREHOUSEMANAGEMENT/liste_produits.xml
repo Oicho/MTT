@@ -6,20 +6,44 @@
 		<![CDATA[
 		<liste_produit>
 			<produit>
-				<reference_produit>0000001</reference_produit>
-				<designation_produit>designation_produit_1</designation_produit>
-				<description_produit>description_produit_1</description_produit>
-				<categorie_produit>categorie_produit_1</categorie_produit>
-				<prix_global_produit>100</prix_global_produit>
+				<reference_produit>TOM003</reference_produit>
+				<designation_produit>GPS TOM TOM</designation_produit>
+				<description_produit>Le gps tom tom de papa</description_produit>
+				<categorie_produit>IT</categorie_produit>
+				<prix_global_produit>158</prix_global_produit>
+				<promotion_globale_produit>0</promotion_globale_produit>
+			</produit>
+			<produit>
+				<reference_produit>SAL002</reference_produit>
+				<designation_produit>Saumon norvegien</designation_produit>
+				<description_produit>Sauvon tres haute qualite</description_produit>
+				<categorie_produit>Nourriture</categorie_produit>
+				<prix_global_produit>30</prix_global_produit>
+				<promotion_globale_produit>5</promotion_globale_produit>
+			</produit>
+			<produit>
+				<reference_produit>TES001</reference_produit>
+				<designation_produit>Sirop tesseire</designation_produit>
+				<description_produit>Sirop gouteux</description_produit>
+				<categorie_produit>Nourriture</categorie_produit>
+				<prix_global_produit>5</prix_global_produit>
 				<promotion_globale_produit>10</promotion_globale_produit>
 			</produit>
 			<produit>
-				<reference_produit>0000002</reference_produit>
-				<designation_produit>designation_produit_5</designation_produit>
-				<description_produit>description_produit_5</description_produit>
-				<categorie_produit>categorie_produit_5</categorie_produit>
-				<prix_global_produit>200</prix_global_produit>
+				<reference_produit>CAV003</reference_produit>
+				<designation_produit>Cave a vin</designation_produit>
+				<description_produit>Cave a vin haute qualite, designee en italie</description_produit>
+				<categorie_produit>Accessoire</categorie_produit>
+				<prix_global_produit>500</prix_global_produit>
 				<promotion_globale_produit>10</promotion_globale_produit>
+			</produit>
+			<produit>
+				<reference_produit>ABR004</reference_produit>
+				<designation_produit>Abricot</designation_produit>
+				<description_produit>Abricot de madagascar</description_produit>
+				<categorie_produit>Nourriture</categorie_produit>
+				<prix_global_produit>4</prix_global_produit>
+				<promotion_globale_produit>0</promotion_globale_produit>
 			</produit>
 		</liste_produit>
 		]]>
