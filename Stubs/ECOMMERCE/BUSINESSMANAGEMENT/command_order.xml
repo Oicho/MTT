@@ -6,9 +6,9 @@
     <message>
         {
         "_comment" : "Envoi d'un bon de commande vers le système d'appro"
-        "Id_client" : "1",
-        "Id_order" : "1",
-        "Articles" :
+        "id_client" : "1",
+        "id_order" : "1",
+        "articles" :
             [
                  {
                     "id_article" : "1",
@@ -22,9 +22,9 @@
                     "Price" : "89.74"
                 }
             ]
-        "Date_order" : "20/12/2015",
-        "Place" : "59, rue du soleil levant, LILLE",
-        "Delivery_mode" : "Store"
+        "date_order" : "20/12/2015",
+        "place" : "59, rue du soleil levant, LILLE",
+        "delivery_mode" : "Store"
         }
     </message>
 </stub>

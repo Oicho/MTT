@@ -3,18 +3,16 @@
     <name>création profil client</name>
     <type queueName="creation">asynch</type>
     <message>
-        {"Client": {
+        {
+        "nom":"Flantier",
+        "prenom":"Noel",
         "magasin_id":"1",
         "date_de_naissance": "17/07/1992",
         "sexe": "F",
         "email": "toto@gmail.com",
-        "adresse" : {
         "idRue" : "rue voltaire",
         "idVille" : "Paris",
         "idCodePostal" : "75016"
-        },
-        "isfidelise" : "true"
-        }
         }
     </message>
 </stub>
