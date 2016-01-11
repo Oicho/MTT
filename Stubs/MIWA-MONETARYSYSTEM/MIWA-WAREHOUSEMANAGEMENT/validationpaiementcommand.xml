@@ -2,5 +2,8 @@
 <stub>
     <name>validation paiement</name>
     <type endpoint="/MONETARYSYSTEM/paiement_validation">synch</type>
-    <message mediatype="application/json">{"ref_command" : "201601040001", "Validation" : "true"}</message>
+    <message mediatype="application/json">{
+        "command_ref" : "201601040001",
+        "validation" : "true"
+        }</message>
 </stub>
