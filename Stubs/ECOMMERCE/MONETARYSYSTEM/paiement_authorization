@@ -6,15 +6,15 @@
     <message mediatype="application/json">
         {
         "_comment" : "Demande d'autorisation de paiement"
-            "Id_client" : "2",
-            "Id_command" : "2",
-            "Carte_bancaire" :
+            "id_client" : "2",
+            "id_command" : "2",
+            "carte_bancaire" :
                 {
-                "Numero" : "5976418659784569",
-                "Date_valid" : "07/2018",
-                "Pycto" : "589"
+                "numero" : "5976418659784569",
+                "date_valid" : "07/2018",
+                "pycto" : "589"
                 }
-            "Carte société" : "true"
+            "carte société" : "true"
         }
     </message>
 </stub>
