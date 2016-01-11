@@ -2,5 +2,5 @@
 <stub>
     <name>AllowDebit to Monetique</name>
     <type queueName="AllowDebit">asynch</type>
-    <message>{"client_ID":1,"command_ID":1}</message>
+    <message>{"command_ref":201601040001}</message>
 </stub>
