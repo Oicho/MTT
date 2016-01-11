@@ -10,7 +10,7 @@
 				<designation_produit>designation_produit_1</designation_produit>
 				<description_produit>description_produit_1</description_produit>
 				<categorie_produit>categorie_produit_1</categorie_produit>
-				<prix_global_produi>100</prix_global_produi>
+				<prix_global_produit>100</prix_global_produit>
 				<promotion_globale_produit>10</promotion_globale_produit>
 			</produit>
 			<produit>
@@ -18,7 +18,7 @@
 				<designation_produit>designation_produit_5</designation_produit>
 				<description_produit>description_produit_5</description_produit>
 				<categorie_produit>categorie_produit_5</categorie_produit>
-				<prix>200</prix>
+				<prix_global_produit>200</prix_global_produit>
 				<promotion_globale_produit>10</promotion_globale_produit>
 			</produit>
 		</liste_produit>
