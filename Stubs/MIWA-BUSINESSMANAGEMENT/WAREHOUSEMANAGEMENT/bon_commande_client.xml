@@ -6,17 +6,17 @@
         "_comment" : "format bon de commande d'un client.",
         "command_id" : "4",
         "delivery_date":"09/01/2016",
-        "reception_date ":"12/01/2016",
+        "reception_date":"12/01/2016",
         "delivery_type" : "client",
         "delivery_address": "entrepot",
         "articles" :
         [
         {
-        "article_id" : "XXX",
+        "article_ref" : "XXX",
         "quantity": "XXX"
         },
         {
-        "article_id" : "YYY",
+        "article_ref" : "YYY",
         "quantity": "YYY"
         }
         ]

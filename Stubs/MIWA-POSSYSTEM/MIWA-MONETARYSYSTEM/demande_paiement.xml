@@ -4,14 +4,13 @@
 <type endpoint="/POSSYSTEM">synch</type>
 <message mediatype="application/json" method="POST">
     {
-    "Carte bancaire" : {
-    "Numero" :"00000000001",
-    "Code" : "0000",
-    "Carte société" : "OUI"
+    "cartebancaire" : {
+    "numero" :"00000000001",
+    "code" : "0000",
+    "cartesociete" : "OUI"
     },
-    "Id_client" : "1",
-    "Montant" : "60"
+    "id_client" : "1",
+    "montant" : "60"
     }
-
 </message>
 </stub>
