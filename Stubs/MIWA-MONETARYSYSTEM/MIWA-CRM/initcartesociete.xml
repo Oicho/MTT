@@ -3,6 +3,6 @@
   <name>Demande risque client</name>
   <type endpoint="/CRM/CARTE">synch</type>
   <message mediatype="application/json" method="POST">
-    {"id_client":"002",
+    {"idfidelite":"002",
     "valeur_credit":"1000"}</message>
 </stub>

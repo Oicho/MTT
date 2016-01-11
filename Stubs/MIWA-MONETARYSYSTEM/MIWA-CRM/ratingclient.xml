@@ -2,5 +2,5 @@
 <stub>
   <name>Demande rating client</name>
   <type endpoint="/CRM/RATING">synch</type>
-  <message mediatype="application/json" method="GET">{"id_client" : "001"}</message>
+  <message mediatype="application/json" method="GET">{"idfidelite" : "001"}</message>
 </stub>
