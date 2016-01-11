@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>authorization_stub</name>
+    <!-- Endpoint a changer avec votre nom -->
+    <type endpoint="/POSSYSTEM">synch</type>
+    <message mediatype="application/json" methode="POST">
+        {
+            "id_client" : "2",
+            "id_command" : "2",
+            "carte_bancaire" :
+                {
+                "numero" : "5976418659784569",
+                "date_valid" : "07/2018",
+                "pycto" : "589"
+                }
+            "carte_societe" : "true"
+        }
+    </message>
+</stub>

@@ -3,6 +3,8 @@
     <name>rating</name>
     <type endpoint="/CRM/CARTE">synch</type>
     <message mediatype="application/json" method="POST">
-        {"id_client":"19714"’,"typedemande":"differe","rib":"0033-0250-1234-5678-90"}
+        {"id_client":"19714",
+        "typedemande":"differe",
+        "rib":"0033-0250-1234-5678-90"}
     </message>
 </stub>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>rating</name>
-    <type endpoint="/miwa/api/time">synch</type>
-    <message mediatype="application/json">
+    <type endpoint="/CRM/RATING">synch</type>
+    <message mediatype="application/json" method="GET">
         {"rating":"19714"}
     </message>
 </stub>

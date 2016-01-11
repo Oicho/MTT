@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
   <name>Demande rating client</name>
-  <type endpoint="/CRM">synch</type>
-  <message mediatype="application/json">{"id_client" : "001"}</message>
+  <type endpoint="/CRM/RATING">synch</type>
+  <message mediatype="application/json" method="GET">{"idFidelite" : "001"}</message>
 </stub>

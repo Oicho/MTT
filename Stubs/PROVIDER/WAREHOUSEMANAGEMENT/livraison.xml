@@ -4,11 +4,11 @@
     <type queueName="SendLivraisonWarehouse">asynch</type>
     <message>{
         "fournisseur_name" : "Fournisseur1",
-        "commande_id":"3",
-        "Produits": [
-        {"product_ID":"3", "product_quantity":"21"},
-        {"product_ID":"2", "product_quantity":"2"},
-        {"product_ID":"1", "product_quantity":"398"}
+        "commande_id":"1",
+        "produits": [
+        {"product_ref":"TOM003", "product_quantity":"40"},
+        {"product_ref":"SAL002", "product_quantity":"200"},
+        {"product_ref":"TES001", "product_quantity":"398"}
         ],
         }
     </message>
