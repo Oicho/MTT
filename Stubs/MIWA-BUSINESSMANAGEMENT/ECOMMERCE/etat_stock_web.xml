@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>changement_stock_web</name>
+    <type endpoint="/miwa/api/time">asynch</type>
+    <message mediatype="application/json">{
+    "_comment" : "format stock actuel site web",
+    "date" : "12:07 20/12/2015",
+    "articles_available_stock_web" :
+    [
+        {
+            "article_id" : "2",
+            "price": "23",
+            "quantity": "120"
+        },
+        {
+            "article_id" : "3",
+            "price": "10",
+            "quantity": "1254"
+        }
+    ]
+}</message>
+</stub>

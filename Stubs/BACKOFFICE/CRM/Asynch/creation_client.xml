@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>creation_client</name>
-    <type>asynch</type>
+    <type queueName="creation_client">asynch</type>
     <message mediatype="application/json">{"client":
         {
-        "client_id":"142",
-        "magasin_id":"2",
+        "nom":"Flantier",
+        "prenom":"Noel",
+        "client_id_local":"142",
+        "magasin_id":"1",
         "date_de_naissance": "20/08/1923",
         "sexe": "H",
         "email": "noel@flantier.fr",
-        "adresse"	:[
-        {"idRue" : "rue du bois fleuri"},
-        {"IdVille" : "Reims"},
-        {"idCodePostal" : "51100"}
-        ]        ,
-        "isfidelise" : "false"
-        }
+        "idRue" : "rue du bois fleuri",
+        "idVille" : "Reims",
+        "idCodePostal" : "51100"
         }
     </message>
 </stub>

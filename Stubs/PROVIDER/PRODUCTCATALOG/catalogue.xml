@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>hum</name>
+    <type queueName="catalogue">asynch</type>
+    <message>{
+        "fournisseur_id":"Fournisseur1",
+        "file_name" : "Fournisseur1.xml",
+        "message" : "Catalogue envoyé"
+        }
+    </message>
+</stub>

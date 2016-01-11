@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>bon_commande_reassort</name>
+    <type endpoint="/BUSINESSMANAGEMENT/bon_commande_reassort">synch</type>
+    <message mediatype="application/json">{
+        "_comment" : "Besoin de teisseir et de saumon",
+        "command_ref":"201601040002",
+        "delivery_address":"entrepot",
+        "delivery_date":"07/01/2016",
+        "reception_date ":"08/01/2016",
+        "articles":
+        [
+        {
+        "article_ref":"SAL002",
+        "quantity":"50"
+        },
+        {
+        "article_ref":"TES001",
+        "quantity":"65"
+        }
+        ]
+        }
+    </message>
+</stub>
