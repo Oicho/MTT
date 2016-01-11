@@ -39,8 +39,8 @@ public class SynchSender implements Sender {
             default:
                 throw new IllegalStateException();
         }
-
-        if (response.getStatus() != 201) {
+        System.out.println(response.getEntity(String.class));
+        if (response.getStatus() > 299) {
             // Si on ne me renvoie pas 201 il y a eu un soucis
             throw new RuntimeException("Failed : HTTP error code : " + response.getStatus());
         }
