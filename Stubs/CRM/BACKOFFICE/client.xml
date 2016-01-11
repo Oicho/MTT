@@ -8,7 +8,7 @@
             "prenom":"Noel",
             "client_id_local":"1",
             "magasin_id":"1",
-            "idFidelite" : "12"
+            "idFidelite" : "12",
             "date_de_naissance": "17/07/1992",
             "sexe": "F",
             "email": "toto@gmail.com",
