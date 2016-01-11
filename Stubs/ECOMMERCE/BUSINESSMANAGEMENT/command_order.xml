@@ -24,7 +24,8 @@
             ]
         "date_order" : "20/12/2015",
         "place" : "59, rue du soleil levant, LILLE",
-        "delivery_mode" : "Store"
+        "delivery_mode" : "Store",
+        "id_magasin" : "1"
         }
     </message>
 </stub>
