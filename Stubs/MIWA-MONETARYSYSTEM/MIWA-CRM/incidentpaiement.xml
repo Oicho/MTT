@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>hum</name>
-    <type queueName="test">asynch</type>
+    <type queueName="INCIDENT_PAIEMENT">asynch</type>
     <message mediatype="application/json">
         {"id_client" : "003",
         "valeur_incident" : "003",
