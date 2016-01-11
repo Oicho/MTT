@@ -5,17 +5,13 @@
     <message mediatype="application/json">{"client":
         {
         "client_id_local":"142",
-        "magasin_id":"2",
+        "magasin_id":"1",
         "date_de_naissance": "20/08/1923",
         "sexe": "H",
         "email": "noel@flantier.fr",
-        "adresse"	: {
         "idRue" : "rue du bois fleuri",
         "idVille" : "Reims",
         "idCodePostal" : "51100"
-        },
-        "isfidelise" : "false"
-        }
         }
     </message>
 </stub>

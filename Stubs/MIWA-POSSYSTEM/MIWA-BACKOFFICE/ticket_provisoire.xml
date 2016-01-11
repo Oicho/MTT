@@ -4,11 +4,9 @@
 <type endpoint="/miwa/api/time">synch</type>
 <message mediatype="application/json">
     {
-    "client_id":"1",
-    "ticket_id":"1",
+    "idFidelite":"1",
     "magasin_id":"1",
     "ticket_date":"10:15 04/01/2016",
-    "isfidelise" : "OUI",
     "total": "60",
     "articles":[
     {
