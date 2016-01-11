@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+<name>demande_paiement_fournisseur</name>
+    <type endpoint="/SAC">synch</type>
+    <message mediatype="application/json" method="POST">
+        {
+        "id_facture" : "3",
+        "num_societe": "73282932000074",
+        "montant" : "689"
+        }
+</message>
+</stub>
