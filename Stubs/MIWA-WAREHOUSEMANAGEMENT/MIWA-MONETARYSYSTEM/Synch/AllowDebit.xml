@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>AllowDebit to Monetique</name>
+    <type endpoint="/MONETARYSYSTEM/paiement_validation">synch</type>
+    <message mediatype="application/json" method="post">
+        {"command_ref" : "201601040001"}
+    </message>
+</stub>

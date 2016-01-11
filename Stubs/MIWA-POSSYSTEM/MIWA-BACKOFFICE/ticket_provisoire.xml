@@ -4,24 +4,22 @@
     <type endpoint="/BO">synch</type>
     <message mediatype="application/json" method="POST">
         {
-            "client_id":"1",
-            "ticket_id":"1",
-            "magasin_id":"1",
-            "ticket_date":"10:15 04/01/2016",
-            "isfidelise" : "OUI",
-            "total": "60",
-            "articles":[
-            {
-                "article_id":"1",
-                "price":"30",
-                "quantity":"1"
-            },
-            {
-                "article_id":"2",
-                "price":"15",
-                "quantity":"2"
-            }]
+        "idFidelite":"1",
+        "magasin_id":"1",
+        "ticket_date":"04/01/2016",
+        "total": "60",
+        "articles":[
+        {
+        "article_id":"1",
+        "price":"30",
+        "quantity":"1"
+        },
+        {
+        "article_id":"2",
+        "price":"15",
+        "quantity":"2"
         }
-
+        ]
+        }
     </message>
 </stub>

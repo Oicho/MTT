@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>ticket_caisse</name>
-    <type queueName="ticket_caisse">asynch</type>
+    <type endpoint="/ticket_caisse">synch</type>
     <message mediatype="application/json">{
-        "ticket_caisse" : {
         "client_id":"103",
         "ticket_id":"4202",
         "magasin_id":"1",
         "ticket_date":"15:54 08/12/2015",
-        "isfidelise":"false",
+        "idFidelite":"1",
         "total":"20",
         "articles":[
         {
@@ -27,6 +26,5 @@
         "quantity":"1"
         }
         ]
-        }
         }</message>
 </stub>

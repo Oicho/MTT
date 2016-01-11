@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<stub>
-    <name>AllowDebit to Monetique</name>
-    <type queueName="AllowDebit">asynch</type>
-    <message>{"command_ref":201601040001}</message>
-</stub>
