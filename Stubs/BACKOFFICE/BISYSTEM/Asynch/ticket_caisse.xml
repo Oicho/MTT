@@ -11,22 +11,22 @@
         "isfidelise":"false",
         "total":"20",
         "articles":[
-        {
-        "article_id":"1",
-        "price":"3",
-        "quantity":"2"
-        },
-        {
-        "article_id":"9",
-        "price":"4",
-        "quantity":"1"
-        },
-        {
-        "article_id":"8",
-        "price":"10",
-        "quantity":"1"
-        }
-        ]
+            {
+            "article_id":"1",
+            "price":"3",
+            "quantity":"2"
+            },
+            {
+            "article_id":"9",
+            "price":"4",
+            "quantity":"1"
+            },
+            {
+            "article_id":"8",
+            "price":"10",
+            "quantity":"1"
+            }
+            ]
         }
         }</message>
 </stub>
