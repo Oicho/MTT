@@ -6,7 +6,7 @@
 		{
 		"liste_catalogue_fournisseur" : [
 		{
-		"nom_fournisseur" : "fournisseur_1"
+		"nom_fournisseur" : "fournisseur_1",
 		"produit" : [{
 		"reference_produit" : "0000001",
 		"designation_produit" : "designation_produit_1",
