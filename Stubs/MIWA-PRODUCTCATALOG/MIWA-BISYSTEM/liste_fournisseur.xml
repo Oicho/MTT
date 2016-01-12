@@ -4,21 +4,21 @@
 	<type queueName="catalogue_fournisseur">asynch</type>
 	<message>
 		{
-		liste_catalogue_fournisseur : [
+		"liste_catalogue_fournisseur" : [
 		{
-		nom_fournisseur : "fournisseur_1"
-		produit : [{
-		reference_produit : "0000001",
-		designation_produit : "designation_produit_1",
-		description_produit : "description_produit_1",
-		fournisseur_produit : "fournisseur_1",
-		prix_fournisseur_produit : "100",
+		"nom_fournisseur" : "fournisseur_1"
+		"produit" : [{
+		"reference_produit" : "0000001",
+		"designation_produit" : "designation_produit_1",
+		"description_produit" : "description_produit_1",
+		"fournisseur_produit" : "fournisseur_1",
+		"prix_fournisseur_produit" : "100"
 		}, {
-		reference_produit : "0000005",
-		designation_produit : "designation_produit_5",
-		description_produit : "description_produit_5",
-		fournisseur_produit : "fournisseur_5",
-		prix_fournisseur_produit : "500",
+		"reference_produit" : "0000005",
+		"designation_produit" : "designation_produit_5",
+		"description_produit" : "description_produit_5",
+		"fournisseur_produit" : "fournisseur_5",
+		"prix_fournisseur_produit" : "500"
 		},
 		]
 		}
