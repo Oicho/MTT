@@ -4,7 +4,6 @@
   <type queueName="demande_reassort">asynch</type>
   <message mediatype="application/json">{
     "magasin_id":"2",
-    "commande_id":"45",
 
     "articles":[
 
