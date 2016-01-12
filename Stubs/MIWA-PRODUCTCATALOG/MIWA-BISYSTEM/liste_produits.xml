@@ -1,31 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
-	<name>send liste produit to BI</name>
-	<type queueName="listeProduitBI">asynch</type>
+	<name>products_catalog_stub</name>
+	<type queueName="catalogue_produit">asynch</type>
 	<message>
-		<![CDATA[
-		<liste_produit>
-			<produit>
-				<reference_produit>0000001</reference_produit>
-				<designation_produit>designation_produit_1</designation_produit>
-				<description_produit>description_produit_1</description_produit>
-				<categorie_produit>categorie_produit_1</categorie_produit>
-				<prix_global_produit>100</prix_global_produit>
-				<promotion_globale_produit>10</promotion_globale_produit>
-			</produit>
-			<produit>
-				<reference_produit>0000005</reference_produit>
-				<designation_produit>designation_produit_5</designation_produit>
-				<description_produit>description_produit_5</description_produit>
-				<categorie_produit>categorie_produit_5</categorie_produit>
-				<prix_global_produit>500</prix_global_produit>
-				<promotion_globale_produit>5</promotion_globale_produit>
-			</produit>
-		</liste_produit>
-		]]>
+		{
+		liste_produit : [{
+		reference_produit : "0000001",
+		designation_produit : "designation_produit_1",
+		description_produit : "description_produit_1",
+		prix_global_produit : "100",
+		promotion_globale_produit : "10",
+		categorie_produit : "categorie_produit_1"
+		}, {
+		reference_produit : "0000005",
+		designation_produit : "designation_produit_5))",
+		description_produit : "description_produit_5",
+		prix_global_produit : "500",
+		promotion_globale_produit : "5",
+		categorie_produit : "categorie_produit_5"
+		}
+		]
+		}
 	</message>
 </stub>
-
-
-
-

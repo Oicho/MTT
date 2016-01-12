@@ -2,7 +2,7 @@
 <stub>
     <name>creation_client</name>
     <type queueName="creation_client">asynch</type>
-    <message mediatype="application/json">{"client":
+    <message mediatype="application/json">
         {
         "nom":"Flantier",
         "prenom":"Noel",

@@ -2,5 +2,5 @@
 <stub>
   <name>Demande risque client</name>
   <type endpoint="/CRM/RISK">synch</type>
-  <message mediatype="application/json" method="POST">{"id_client":"001"}</message>
+  <message mediatype="application/json" method="POST">{"idFidelite":"001"}</message>
 </stub>

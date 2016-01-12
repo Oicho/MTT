@@ -3,9 +3,7 @@
   <name>demande_reassort</name>
   <type queueName="demande_reassort">asynch</type>
   <message mediatype="application/json">{
-    "demande_reassort" : {
     "magasin_id":"2",
-    "commande_id":"45",
 
     "articles":[
 
@@ -22,6 +20,5 @@
     "quantity":"10"}
 
     ]
-    }
     }</message>
 </stub>
