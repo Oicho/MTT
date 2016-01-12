@@ -5,6 +5,7 @@
     <message>
         {
         "magasin_id":"1",
+        "date":"10:15 11/01/2016",
         "articles" : [
         {
         "article_id" : "3",

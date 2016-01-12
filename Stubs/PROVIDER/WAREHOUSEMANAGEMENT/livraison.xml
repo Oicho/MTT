@@ -9,7 +9,7 @@
         {"product_ref":"TOM003", "product_quantity":"40"},
         {"product_ref":"SAL002", "product_quantity":"200"},
         {"product_ref":"TES001", "product_quantity":"398"}
-        ],
+        ]
         }
     </message>
 </stub>
