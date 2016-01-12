@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>creation_client</name>
+    <type queueName="creation_client">asynch</type>
+    <message mediatype="application/json">
+        {
+        "idFidelite":"1"
+        }
+    </message>
+</stub>
