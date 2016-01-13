@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>promotion</name>
-    <type queueName="promotion">asynch</type>
+    <type queueName="CRM_to_ECOMMERCE_promotion">asynch</type>
     <message mediatype="application/json">
-        {"Promotion client":[
-        {"idfidelite":"19714",
+        {"promotionClient":[
+        {"idfidelite":"12",
         "remise_id":"35"}
         ]}
     </message>
