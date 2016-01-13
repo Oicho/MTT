@@ -7,7 +7,7 @@
         "liste_magasin" : [{
         "id_magasin" : "01",
         "nom_magasin" : "magasin_1",
-        "adresse_magasin" : "14/16 Rue Voltaire, 94276 Kremlin Bicêtre Cedex"
+        "adresse_magasin" : "14/16 Rue Voltaire, 94276 Kremlin Bicetre Cedex"
         }, {
         "id_magasin" : "02",
         "nom_magasin": "magasin_2",
@@ -15,7 +15,7 @@
         }, {
         "id_magasin": "03",
         "nom_magasin": "magasin_3",
-        "adresse_magasin": "65 Av. des Champs-Élysées, 75008"
+        "adresse_magasin": "65 Av. des Champs-Elysees, 75008"
         }
         ]
         }
