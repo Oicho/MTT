@@ -5,6 +5,6 @@
     <message mediatype="application/json">{
     "_comment" : "format envoi d'une validation de paiement au fournisseur",
     "provider_id" : "1",
-    "bill_reference": "0000001",
+    "bill_reference": "0000001"
 }</message>
 </stub>
