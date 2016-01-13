@@ -12,14 +12,14 @@
             [
                  {
                     "id_article" : "1",
-                    "Quantity" : "3",
-                    "Price" : "45"
+                    "quantity" : "3",
+                    "price" : "45"
                  },
 
                 {
                     "id_article" : "2",
-                    "Quantity" : "1",
-                    "Price" : "89.74"
+                    "quantity" : "1",
+                    "price" : "89.74"
                 }
             ],
         "date_order" : "20/12/2015",
