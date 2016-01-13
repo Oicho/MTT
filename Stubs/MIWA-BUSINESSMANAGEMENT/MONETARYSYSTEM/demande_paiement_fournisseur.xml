@@ -4,9 +4,10 @@
     <type endpoint="/SAC">synch</type>
     <message mediatype="application/json" method="POST">
         {
-        "ref_client": "4321",
+        "ref_provider": "003",
         "ref_command" : "3",
         "num_societe": "73282932000074",
-        "montant" : "689"}
+        "montant" : "689"
+        }
 </message>
 </stub>
