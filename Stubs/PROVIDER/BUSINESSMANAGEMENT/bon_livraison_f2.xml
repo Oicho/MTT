@@ -14,7 +14,7 @@
         },
         {
         "article_id":"ART001",
-        "price":"50",
+        "price_unit":"50",
         "quantity":"100",
         "price_total":"5000"
         }
