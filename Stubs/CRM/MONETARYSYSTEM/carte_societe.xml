@@ -4,8 +4,8 @@
     <type endpoint="/CRM/CARTE">synch</type>
     <message mediatype="application/json" method="POST">
         {
-            "idfidelite" : "19714",
-            "typedemande" : "differe",
+            "idfidelite" : "4321",
+            "typedemande" : "normal",
             "rib" : "0033-0250-1234-5678-90"
         }
     </message>
