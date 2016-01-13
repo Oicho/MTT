@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>rating</name>
-    <type endpoint="/miwa/api/time">synch</type>
+    <type endpoint="/MONETARYSYSTEM/RATING">synch</type>
     <message mediatype="application/json">
         {
         "idfidelite": "19714",
