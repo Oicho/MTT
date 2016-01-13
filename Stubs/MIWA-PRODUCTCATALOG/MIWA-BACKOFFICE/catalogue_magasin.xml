@@ -3,7 +3,7 @@
     <type queueName="REF_to_BACKOFFICE_catalog">asynch</type>
     <message mediatype="application/json" methode="POST">
         {
-            "liste_produit : [{
+            "liste_produit" : [{
                     "reference_produit" : "0000001",
                     "designation_produit" : "Maracuja",
                     "description_produit" : "Fruits acidule de Colombie",
