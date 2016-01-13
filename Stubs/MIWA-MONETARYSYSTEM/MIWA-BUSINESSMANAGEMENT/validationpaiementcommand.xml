@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
   <name>validation paiement SAC</name>
-  <type endpoint="/miwa/api/time">synch</type>
-  <message mediatype="application/json">{"id_command" : "201601040001", "validation" : "true"}</message>
+  <type endpoint="/valid-paiement/provider">synch</type>
+  <message mediatype="application/json">
+    {
+    "validation" : "true"
+    }
+  </message>
 </stub>
