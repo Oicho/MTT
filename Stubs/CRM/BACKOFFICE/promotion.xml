@@ -3,7 +3,7 @@
     <name>promotion</name>
     <type queueName="promotion">asynch</type>
     <message mediatype="application/json">
-        {"Promotion_client":[
+        {"promotionClient":[
             {"client_id":"1",
             "promotion":"35"}
         ]}
