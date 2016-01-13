@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+	<name>products_catalog_stub</name>
+	<type queueName="catalogue_magasin">asynch</type>
+	<message>
 {
 	liste_produit : [{
 			reference_produit : "0000001",
@@ -16,3 +21,5 @@
 		}
 	]
 }
+	</message>
+</stub>

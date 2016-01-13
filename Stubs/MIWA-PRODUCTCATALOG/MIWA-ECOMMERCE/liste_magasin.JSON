@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>liste_magasin_stub</name>
+    <type queueName="liste_magasin">asynch</type>
+    <message>
 {
 	liste_magasin : [{
 			id_magasin : "01",
@@ -14,3 +19,5 @@
 		}
 	]
 }
+    </message>
+</stub>
