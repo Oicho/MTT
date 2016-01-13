@@ -2,26 +2,26 @@
 <stub>
     <name>command_order_stub</name>
     <!-- Queue a changer avec votre nom -->
-    <type queueName="test">asynch</type>
+    <type queueName="ecommerce_command_order">asynch</type>
     <message>
         {
-        "_comment" : "Envoi d'un bon de commande vers le système d'appro"
+        "_comment" : "Envoi d'un bon de commande vers le systeme d'appro",
         "id_client" : "1",
         "id_order" : "1",
         "articles" :
             [
                  {
                     "id_article" : "1",
-                    "Quantity" : "3",
-                    "Price" : "45"
+                    "quantity" : "3",
+                    "price" : "45"
                  },
 
                 {
                     "id_article" : "2",
-                    "Quantity" : "1",
-                    "Price" : "89.74"
+                    "quantity" : "1",
+                    "price" : "89.74"
                 }
-            ]
+            ],
         "date_order" : "20/12/2015",
         "place" : "59, rue du soleil levant, LILLE",
         "pickAndGo" : "false",

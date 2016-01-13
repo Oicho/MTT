@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>hum</name>
-    <type queueName="test">asynch</type>
+    <type queueName="CRM_to_BACKOFFICE_client">asynch</type>
 <message mediatype="application/json" >
-    {"Profil Client":[
-    "client_id":'19714'},
-    "typologie":'Célibataire',
-    "typedemande":'immédiat',
-    "rib_id":'1234-5678-9874-7653-1234',
-    ]}
+    {
+    "nom":"Flantier",
+    "prenom":"Noel",
+    "client_id_local":"1",
+    "magasin_id":"1",
+    "idFidelite" : "12",
+    "date_de_naissance": "17/07/1992",
+    "sexe": "F",
+    "email": "toto@gmail.com",
+    "idRue" : "rue Voltaire",
+    "idVille" : "Paris",
+    "idCodePostal" : "75013"
+    }
 </message>
 </stub>
