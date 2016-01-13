@@ -5,8 +5,8 @@
     <message mediatype="application/json">
         {
             idfidelite : "19714",
-            Typedemande : "differe",
-            RIB : "0033-0250-1234-5678-90"
+            typedemande : "differe",
+            rib : "0033-0250-1234-5678-90"
         }
     </message>
 </stub>
