@@ -2,7 +2,7 @@
 <stub>
     <name>authorization_stub</name>
     <!-- Endpoint a changer avec votre nom -->
-    <type endpoint="/POSSYSTEM">synch</type>
+    <type endpoint="/SITEWEB">synch</type>
     <message mediatype="application/json" methode="POST">
         {
             "id_client" : "2",
