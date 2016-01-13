@@ -5,7 +5,7 @@
     <type queueName="ecommerce_command_order">asynch</type>
     <message>
         {
-        "_comment" : "Envoi d'un bon de commande vers le système d'appro"
+        "_comment" : "Envoi d'un bon de commande vers le systeme d'appro",
         "id_client" : "1",
         "id_order" : "1",
         "articles" :
@@ -21,7 +21,7 @@
                     "Quantity" : "1",
                     "Price" : "89.74"
                 }
-            ]
+            ],
         "date_order" : "20/12/2015",
         "place" : "59, rue du soleil levant, LILLE",
         "pickAndGo" : "false",
