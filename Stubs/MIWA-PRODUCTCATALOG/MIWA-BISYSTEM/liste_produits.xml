@@ -13,7 +13,7 @@
 		"categorie_produit" : "categorie_produit_1"
 		}, {
 		"reference_produit" : "0000005",
-		"designation_produit" : "designation_produit_5))",
+		"designation_produit" : "designation_produit_5",
 		"description_produit" : "description_produit_5",
 		"prix_global_produit" : "500",
 		"promotion_globale_produit" : "5",
