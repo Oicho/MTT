@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>rating</name>
-    <type endpoint="/miwa/api/time">synch</type>
-    <message mediatype="application/json">
+    <type endpoint="/CRM/CARTE">synch</type>
+    <message mediatype="application/json" method="POST">
         {
-            idfidelite : "19714",
-            Typedemande : "differe",
-            RIB : "0033-0250-1234-5678-90"
+            "idfidelite" : "19714",
+            "typedemande" : "differe",
+            "rib" : "0033-0250-1234-5678-90"
         }
     </message>
 </stub>
