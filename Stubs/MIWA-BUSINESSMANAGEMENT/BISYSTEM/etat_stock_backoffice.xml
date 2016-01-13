@@ -11,14 +11,10 @@
         [
             {
                 "article_id" : "3",
-                "selling_price": "67",
-                "buying_price": "62",
                 "quantity": "12"
             },
             {
                 "article_id" : "4",
-                "selling_price": "50",
-                "buying_price": "30",
                 "quantity": "27"
             }
         ]

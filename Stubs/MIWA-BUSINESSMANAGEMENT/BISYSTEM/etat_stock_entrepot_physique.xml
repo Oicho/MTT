@@ -11,14 +11,10 @@
         [
             {
                 "article_id" : "1",
-                "selling_price": "70",
-                "buying_price": "59",
                 "quantity": "120"
             },
             {
                 "article_id" : "2",
-                "selling_price": "80",
-                "buying_price": "69",
                 "quantity": "87"
             }
         ]}</message>
