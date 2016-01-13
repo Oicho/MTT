@@ -7,6 +7,7 @@
         {
             "id_client" : "2",
             "id_command" : "2",
+            "total" : "19.45"
             "carte_bancaire" :
                 {
                 "numero" : "5976418659784569",
