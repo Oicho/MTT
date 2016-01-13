@@ -7,7 +7,7 @@
     "cartebancaire" : {
     "numero" :"00000000001",
     "code" : "0000",
-    "cartesociete" : "OUI"
+    "cartesociete" : "true"
     },
     "id_client" : "1",
     "montant" : "60"
