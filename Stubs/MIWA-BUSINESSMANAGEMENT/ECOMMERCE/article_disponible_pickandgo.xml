@@ -23,9 +23,9 @@
             "shops" :
             [
                 {
-                    "shop_id" : 3}
-            ,
-
+                    "shop_id" : 3
+                },
+                {
                     "shop_id" : 4
                 }
             ]
