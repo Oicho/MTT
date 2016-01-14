@@ -4,7 +4,7 @@
     <type queueName="sales">asynch</type>
     <message>
         {
-        "date" : "12:45 23/12/2015"
+        "date" : "12:45 23/12/2015",
         "articles" : [
         {
         "article_id" : "3",
