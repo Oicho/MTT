@@ -38,10 +38,7 @@ public class SynchSender implements Sender {
                 break;
             case "GET":
                 response = webResource.type(mediatype).get(ClientResponse.class);
-<<<<<<< HEAD
-=======
                 break;
->>>>>>> origin/master
             default:
                 throw new IllegalStateException();
         }
