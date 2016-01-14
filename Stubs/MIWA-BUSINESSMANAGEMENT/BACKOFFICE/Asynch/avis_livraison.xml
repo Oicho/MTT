@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>avis_livraison</name>
-    <type endpoint="BM_livraison">asynch</type>
+    <type queueName="BM_livraison">asynch</type>
     <message mediatype="application/json">
         {
             "commande_id":"3",
