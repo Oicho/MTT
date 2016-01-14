@@ -5,7 +5,7 @@
     <message mediatype="application/json">{
         "_comment" : "format envoi avis de livraison à l'entrepôt fournisseur",
         "command_id":"1",
-        "delivery_date": "06/01/2016",
-        "delivery_address":"entrepot"}
+        "delivery_address":"entrepot"
+        }
     </message>
 </stub>

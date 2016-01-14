@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+  <name>demande_reassort</name>
+  <type queueName="pickedUp_pickAndGo">asynch</type>
+  <message mediatype="application/json">{
+    "commandes":[
+
+    { "commande_id":"2" },
+
+    { "commande_id":"5" },
+
+    { "commande_id":"3" },
+
+    { "commande_id":"4" }
+
+    ]
+    }</message>
+</stub>

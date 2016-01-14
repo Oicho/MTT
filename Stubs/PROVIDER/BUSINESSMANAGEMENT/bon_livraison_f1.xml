@@ -14,7 +14,7 @@
         },
         {
         "article_id":"PAT001",
-        "price":"20",
+        "price_unit":"20",
         "quantity":"3",
         "price_total":"60"
         }

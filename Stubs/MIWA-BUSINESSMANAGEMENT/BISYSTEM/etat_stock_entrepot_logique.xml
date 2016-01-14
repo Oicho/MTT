@@ -7,19 +7,27 @@
         "inventory_id" : "1",
         "warehouse_id": "1",
         "date_of_inventory" : "03:02 29/12/2015",
-        "articles" :
+        "articles_stores" :
         [
             {
                 "article_id" : "1",
-                "selling_price": "70",
-                "buying_price": "59",
                 "quantity": "120"
             },
             {
                 "article_id" : "2",
-                "selling_price": "80",
-                "buying_price": "69",
                 "quantity": "87"
             }
-        ]}</message>
+        ],
+        "articles_website" :
+        [
+        {
+        "article_id" : "1",
+        "quantity": "120"
+        },
+        {
+        "article_id" : "2",
+        "quantity": "87"
+        }
+        ]
+        }</message>
 </stub>

@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
-<name>demande de paiement</name>
-<type endpoint="/POSSYSTEM">synch</type>
-<message mediatype="application/json" method="POST">
-    {
-    "cartebancaire" : {
-    "numero" :"00000000001",
-    "code" : "0000",
-    "cartesociete" : "OUI"
-    },
-    "id_client" : "1",
-    "montant" : "60"
-    }
-</message>
+    <name>demande de paiement</name>
+    <type endpoint="/POSSYSTEM">synch</type>
+    <message mediatype="application/json" method="POST">
+        {
+        "cartebancaire": {
+        "numero": "00000000001",
+        "code": "0000"
+        },
+        "id_client": "1234",
+        "montant": "60"
+        }
+    </message>
 </stub>
