@@ -5,7 +5,7 @@
     <message mediatype="application/json">
         {
             "commande_id":"3",
-            magasin_id: "paris",
+            "magasin_id" : "paris",
             "articles":[
             {
                 "article_id":"1",
