@@ -7,12 +7,12 @@
     "articles_available_stock_web" :
     [
         {
-            "article_id" : "2",
+            "article_id" : "0000001",
             "price": 23.0,
             "quantity": 120
         },
         {
-            "article_id" : "3",
+            "article_id" : "0000005",
             "price": 10.0,
             "quantity": 1254
         }
