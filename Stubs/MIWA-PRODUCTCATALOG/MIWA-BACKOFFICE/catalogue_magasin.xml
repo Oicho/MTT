@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
-    <type queueName="REF_to_BACKOFFICE_catalog">asynch</type>
+    <type queueName="REF_catalog.1.BACK_OFFICE">asynch</type>
     <message mediatype="application/json" methode="POST">
         {
             "liste_produit" : [{
-                    "reference_produit" : "0000001",
-                    "designation_produit" : "Maracuja",
-                    "description_produit" : "Fruits acidule de Colombie",
-                    "prix_global_produit" : "3",
-                    "promotion_globale_produit" : "10",
-                    "categorie_produit" : "Fruits"
-                },
-                {
-                    "reference_produit" : "0000002",
-                    "designation_produit" : "Magnoc",
-                    "description_produit" : "Legumes communs de Colombie",
-                    "prix_global_produit" : "7",
-                    "promotion_globale_produit" : "5",
-                    "categorie_produit" : "Legumes"
-                }]
+            "reference_produit" : "0000001",
+            "designation_produit" : "Maracuja",
+            "description_produit" : "Fruits acidule de Colombie",
+            "prix_global_produit" : "3",
+            "promotion_globale_produit" : "10",
+            "categorie_produit" : "Fruits"
+        },
+        {
+            "reference_produit" : "0000002",
+            "designation_produit" : "Magnoc",
+            "description_produit" : "Legumes communs de Colombie",
+            "prix_global_produit" : "7",
+            "promotion_globale_produit" : "5",
+            "categorie_produit" : "Legumes"
+        }]
         }
     </message>
 </stub>

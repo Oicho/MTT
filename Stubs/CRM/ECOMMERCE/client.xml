@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>client</name>
-    <type queueName="client">asynch</type>
+    <type queueName="CRM_to_ECOMMERCE_client">asynch</type>
     <message mediatype="application/json">
-        {"Profil Client":[
-        {"idfidelite":"19714",
-        "typologie":"Célibataire",
-        "typedemande":"immédiat",
-        "rib_id": "9900-6543-4797-0009-15"}
-        ]}
+
+        {
+        "nom":"Flantier",
+        "prenom":"Noel",
+        "client_id_local": 1,
+        "magasin_id": 1,
+        "idFidelite" : 12,
+        "date_de_naissance": "17/07/1992",
+        "sexe": "F",
+        "email": "toto@gmail.com",
+        "idRue" : "rue Voltaire",
+        "idVille" : "Paris",
+        "idCodePostal" : "75013"
+        }
+
     </message>
 </stub>
