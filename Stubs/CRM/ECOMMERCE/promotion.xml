@@ -4,7 +4,7 @@
     <type queueName="CRM_to_ECOMMERCE_promotion">asynch</type>
     <message mediatype="application/json">
         {"promotionClient":[
-        {"idfidelite":"12",
+        {"idfidelite":12,
         "remise_id":"35"}
         ]}
     </message>

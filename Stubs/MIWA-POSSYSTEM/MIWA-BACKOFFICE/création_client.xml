@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>création profil client</name>
-    <type queueName="creation">asynch</type>
+    <type queueName="creation_<PARIS>">asynch</type>
     <message>
         {
         "nom":"Flantier",
