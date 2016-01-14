@@ -4,18 +4,18 @@
     <type queueName="liste_magasin">asynch</type>
     <message>
 {
-	liste_magasin : [{
-			id_magasin : 1,
-			nom_magasin : "magasin_1",
-			adresse_magasin : "14/16 Rue Voltaire, 94276 Kremlin Bicêtre Cedex"
+	"liste_magasin" : [{
+			"id_magasin" : 1,
+			"nom_magasin" : "magasin_1",
+			"adresse_magasin" : "14/16 Rue Voltaire, 94276 Kremlin Bicêtre Cedex"
 		}, {
-			id_magasin : 2,
-			nom_magasin : "magasin_2",
-			adresse_magasin : "57-77 Avenue de Fontainebleau"
+			"id_magasin" : 2,
+			"nom_magasin" : "magasin_2",
+			"adresse_magasin" : "57-77 Avenue de Fontainebleau"
 		}, {
-			id_magasin : 3,
-			nom_magasin : "magasin_3",
-			adresse_magasin : "65 Av. des Champs-Élysées, 75008"
+			"id_magasin" : 3,
+			"nom_magasin" : "magasin_3",
+			"adresse_magasin" : "65 Av. des Champs-Élysées, 75008"
 		}
 	]
 }
