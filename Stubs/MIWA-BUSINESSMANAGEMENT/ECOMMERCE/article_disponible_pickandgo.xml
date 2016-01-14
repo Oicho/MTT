@@ -3,7 +3,6 @@
     <name>article_disponible_pickandgo</name>
     <type queueName="ecommerce_pickandgo_list">asynch</type>
     <message mediatype="application/json">{
-    "_comment" : "format articles disponible pick and go pour site web",
     "date" : "12:45 23/12/2015",
     "articles_available_pick_go" :
     [
@@ -12,8 +11,8 @@
             "shops" :
             [
                 {
-                    "shop_id" : "1",
-                    "shop_id" : "2"
+                    "shop_id" : 1,
+                    "shop_id" : 2
                 }
             ]
         },
@@ -22,8 +21,8 @@
             "shops" :
             [
                 {
-                    "shop_id" : "3",
-                    "shop_id" : "4"
+                    "shop_id" : 3,
+                    "shop_id" : 4
                 }
             ]
         }

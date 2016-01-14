@@ -4,9 +4,9 @@
     <type endpoint="/SITEWEB">synch</type>
     <message mediatype="application/json" methode="POST">
         {
-            "id_client" : "4321",
-            "id_command" : "12",
-            "total" : "20",
+            "id_client" : 4321,
+            "id_command" : 12,
+            "total" : 20.0,
             "carte_bancaire" :
                 {
                 "numero" : "5976418659784569",

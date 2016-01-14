@@ -3,8 +3,7 @@
     <name>changement_etat_commande_pickandgo</name>
     <type queueName="ecommerce_etat_command">asynch</type>
     <message mediatype="application/json">{
-        "_comment" : "format changement état de commande pick and go",
-        "delivery_ref" : "12",
+        "delivery_ref" : 12,
         "delivery_state" : "shipped"
 }</message>
 </stub>
