@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>avis_livraison</name>
-    <type endpoint="BM_livraison.1.BACK_OFFICE">asynch</type>
+    <type endpoint="BM_livraison">asynch</type>
     <message mediatype="application/json">
         {
             "commande_id":"3",
@@ -11,7 +11,7 @@
                 "quantity":"120"
             },
             {
-                "article_id":"3",
+                "article_id":"2",
                 "quantity":"90"
             }]
         }
