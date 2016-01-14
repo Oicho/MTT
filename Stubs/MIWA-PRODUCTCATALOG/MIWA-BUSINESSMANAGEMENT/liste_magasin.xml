@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>liste_magasin_stub</name>
+    <type queueName="liste_magasinBM">asynch</type>
+    <message>
+        {
+        "liste_magasin" : [{
+        "id_magasin" : "01",
+        "nom_magasin" : "magasin_1",
+        "adresse_magasin" : "14/16 Rue Voltaire, 94276 Kremlin Bicetre Cedex"
+        }, {
+        "id_magasin" : "02",
+        "nom_magasin": "magasin_2",
+        "adresse_magasin": "57-77 Avenue de Fontainebleau"
+        }, {
+        "id_magasin": "03",
+        "nom_magasin": "magasin_3",
+        "adresse_magasin": "65 Av. des Champs-Elysees, 75008"
+        }
+        ]
+        }
+    </message>
+</stub>
