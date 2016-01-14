@@ -36,6 +36,8 @@ public class SynchSender implements Sender {
             case "POST":
                 response = webResource.type(mediatype).post(ClientResponse.class, stub.getMessage().getValue());
                 break;
+            case "GET":
+                response = webResource.type(mediatype).get(ClientResponse.class);
             default:
                 throw new IllegalStateException();
         }
