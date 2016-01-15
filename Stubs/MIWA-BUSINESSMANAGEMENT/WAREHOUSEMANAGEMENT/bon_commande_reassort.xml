@@ -5,7 +5,7 @@
     <message mediatype="application/json">{
         "_comment" : "Besoin de teisseir et de saumon",
         "command_ref":"201601040002",
-        "delivery_address":"entrepot",
+        "delivery_address":"entrepot", // mettre le nom/id du magasin
         "delivery_date":"07/01/2016",
         "reception_date ":"08/01/2016",
         "articles":

@@ -7,21 +7,25 @@
     "articles_available_pick_go" :
     [
         {
-            "article_id" : "9",
+            "article_id" : "0000001",
             "shops" :
             [
                 {
-                    "shop_id" : 1,
+                    "shop_id" : 1
+                },
+                {
                     "shop_id" : 2
                 }
             ]
         },
         {
-            "article_id" : "19",
+            "article_id" : "0000005",
             "shops" :
             [
                 {
-                    "shop_id" : 3,
+                    "shop_id" : 3
+                },
+                {
                     "shop_id" : 4
                 }
             ]
