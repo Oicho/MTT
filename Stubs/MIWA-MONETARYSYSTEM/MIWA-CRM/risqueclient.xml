@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
   <name>Demande risque client</name>
-  <type endpoint="/CRM/RISK">synch</type>
-  <message mediatype="application/json" method="POST">{"idfidelite":"001"}</message>
+  <type endpoint="/CRM/RISK/1450">synch</type>
+  <message mediatype="application/json" method="GET"></message>
 </stub>
