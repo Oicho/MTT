@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>Notification for BusinessMangement when the storage is send.</name>
-    <type queueName="BMNotification">asynch</type>
+    <type queueName="WAREHOUSE_Notification">asynch</type>
     <message>{
         "fileName":"storage.json"
         }

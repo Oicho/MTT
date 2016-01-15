@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>hum</name>
-    <type queueName="CRM_to_BACKOFFICE_client">asynch</type>
+    <type queueName="CRM_client">asynch</type>
 <message mediatype="application/json" >
     {
     "nom":"Flantier",

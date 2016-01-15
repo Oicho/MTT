@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>article_disponible_pickandgo</name>
-    <type queueName="ecommerce_pickandgo_list">asynch</type>
+    <type queueName="BM_pickAndGoList">asynch</type>
     <message mediatype="application/json">{
     "date" : "12:45 23/12/2015",
     "articles_available_pick_go" :
     [
         {
-            "article_id" : "9",
+            "article_id" : "0000001",
             "shops" :
             [
                 {
-                    "shop_id" : 1,
+                    "shop_id" : 1
+                },
+                {
                     "shop_id" : 2
                 }
             ]
         },
         {
-            "article_id" : "19",
+            "article_id" : "0000005",
             "shops" :
             [
                 {
-                    "shop_id" : 3,
+                    "shop_id" : 3
+                },
+                {
                     "shop_id" : 4
                 }
             ]

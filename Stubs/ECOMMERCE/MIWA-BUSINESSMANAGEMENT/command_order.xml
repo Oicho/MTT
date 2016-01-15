@@ -2,7 +2,7 @@
 <stub>
     <name>command_order_stub</name>
     <!-- Queue a changer avec votre nom -->
-    <type queueName="ecommerce_command_order">asynch</type>
+    <type queueName="ECOMMERCE_commandOrder">asynch</type>
     <message>
         {
         "id_client" : 1,

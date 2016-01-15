@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
-    <type queueName="REF_catalog.1.BACK_OFFICE">asynch</type>
+    <type queueName="PC_catalogueMagasin">asynch</type>
     <message mediatype="application/json" methode="POST">
         {
-            "liste_produit" : [{
+            "nom_magasin": "paris",
+            "liste_produit" :
+        [{
             "reference_produit" : "0000001",
             "designation_produit" : "Maracuja",
             "description_produit" : "Fruits acidule de Colombie",

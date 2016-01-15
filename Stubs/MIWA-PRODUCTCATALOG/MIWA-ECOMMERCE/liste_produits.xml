@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>liste_produit_stub</name>
-    <type queueName="liste_produit">asynch</type>
+    <type queueName="PC_listeProduit">asynch</type>
     <message>
 {
 	"liste_produit" : [{
@@ -10,14 +10,16 @@
 			"description_produit" : "description_produit_1",
 			"prix_global_produit" : 100,
 			"promotion_globale_produit" : 10.0,
-			"categorie_produit" : "categorie_produit_1"
+			"categorie_produit" : "categorie_produit_1",
+			"url_produit" : "http://csimg.webmarchand.com/srv/FR/290618163293/T/340x340/C/FFFFFF/url/stash-cannette-coca.jpg"
 		}, {
 			"reference_produit" : "0000005",
 			"designation_produit" : "designation_produit_5",
 			"description_produit" : "description_produit_5",
 			"prix_global_produit" : 500,
 			"promotion_globale_produit" : 5.0,
-			"categorie_produit" : "categorie_produit_5"
+			"categorie_produit" : "categorie_produit_5",
+			"url_produit" : "http://img1.lesnumeriques.com/produits/291/19940/m8_htc_one-5331c6eaf183f.jpg"
 		}
 	]
 }

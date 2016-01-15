@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
   <name>impression_coupons</name>
-  <type queueName="impression_<PARIS>">asynch</type>
+  <type queueName="BO_impression_<paris>">asynch</type>
   <message mediatype="application/json">
     {
     "client_id":"124",
