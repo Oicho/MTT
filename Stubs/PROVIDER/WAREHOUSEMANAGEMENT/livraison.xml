@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>SendLivraison to Warehouse</name>
-    <type queueName="SendLivraisonWarehouse">asynch</type>
+    <type queueName="PROVIDER_sendLivraisonWarehouse">asynch</type>
     <message>{
         "fournisseur_name" : "Fournisseur1",
         "commande_id":"1",

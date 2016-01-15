@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>changement_etat_commande_pickandgo</name>
-    <type queueName="ecommerce_etat_command">asynch</type>
+    <type queueName="BM_etatCommand">asynch</type>
     <message mediatype="application/json">{
         "delivery_ref" : 12,
         "delivery_state" : "shipped"

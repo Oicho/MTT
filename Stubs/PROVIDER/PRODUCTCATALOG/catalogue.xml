@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>hum</name>
-    <type queueName="catalogue">asynch</type>
+    <type queueName="PROVIDER_catalogue">asynch</type>
     <message>{
         "fournisseur_id":"Fournisseur1",
         "file_name" : "Fournisseur1.json",

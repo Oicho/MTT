@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>achat_fournisseur</name>
-    <type queueName="achat_fournisseur">asynch</type>
+    <type queueName="BM_achatFournisseur">asynch</type>
     <message mediatype="application/json">
 {
         "provider_id" : "1",

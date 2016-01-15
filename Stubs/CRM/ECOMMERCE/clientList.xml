@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>clientList</name>
-    <type queueName="CRM_to_ECOMMERCE_clientlist">asynch</type>
+    <type queueName="CRM_clientList">asynch</type>
 <message mediatype="application/json" >
     {
         "clientList" :

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
   <name>demande_reassort</name>
-  <type queueName="pickedUp_pickAndGo">asynch</type>
+  <type queueName="BO_pickedUpPickAndGo">asynch</type>
   <message mediatype="application/json">{
     "commandes":[
 

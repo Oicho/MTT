@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>SendCommand to BackOffice</name>
-    <type queueName="SendCommand">asynch</type>
+    <type queueName="WAREHOUSE_sendCommand">asynch</type>
     <message>{
         "Ref_commande":3,
         "etablissement_livre": "backoffice-3",

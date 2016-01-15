@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>promotion</name>
-    <type queueName="CRM_to_ECOMMERCE_promotion">asynch</type>
+    <type queueName="CRM_promotion">asynch</type>
     <message mediatype="application/json">
         {"promotionClient":[
         {"idfidelite":12,

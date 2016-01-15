@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
 	<name>providers_products_stub</name>
-	<type queueName="catalogue_fournisseur_BUSINESSMANAGEMENT">asynch</type>
+	<type queueName="PC_catalogueFournisseur">asynch</type>
 	<message>
 		{
 		"liste_catalogue_fournisseur":[

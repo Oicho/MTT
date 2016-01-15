@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>Ventes</name>
-    <type queueName="sellings">asynch</type>
+    <type queueName="BO_sellings">asynch</type>
     <message>
         {
         "magasin_id":"1",
