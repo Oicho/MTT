@@ -1,9 +1,9 @@
 [{
-  "articleBackOfficeId": 1,
+  "articleBackOfficeId": "REF1",
   "nom_article": "Chaussette",
   "prix": 3
 },{
-   "articleBackOfficeId": 2,
+   "articleBackOfficeId": "REF2",
   "nom_article": "Courgette",
   "prix": 1
 }]
