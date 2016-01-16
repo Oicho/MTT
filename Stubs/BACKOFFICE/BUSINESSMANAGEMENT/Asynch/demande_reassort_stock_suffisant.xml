@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stub>
+    <name>demande_reassort</name>
+    <type queueName="demande_reassort">asynch</type>
+    <message mediatype="application/json">{
+        "magasin_id":"Magasin 1",
+
+        "articles":[
+
+        { "article_id":"F00112",
+        "quantity":"1"  },
+
+        { "article_id":"T15005",
+        "quantity":"1"  },
+
+        { "article_id":"B19284",
+        "quantity":"2"  }
+        ]
+        }</message>
+</stub>

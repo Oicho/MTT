@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>changement_stock_web</name>
-    <type queueName="ecommerce_stock">asynch</type>
+    <type queueName="BM_stock">asynch</type>
     <message mediatype="application/json">{
     "date" : "12:07 20/12/2015",
     "articles_available_stock_web" :

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
-    <type queueName="REF_catalog">asynch</type>
+    <type queueName="PC_catalogueMagasin">asynch</type>
     <message mediatype="application/json" methode="POST">
         {
             "nom_magasin": "paris",

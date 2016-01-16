@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>SendCommand to BackOffice</name>
-    <type queueName="SendCommand">asynch</type>
+    <type queueName="WAREHOUSE_sendCommand">asynch</type>
     <message>{
-        "Ref_commande"=3,
-        "etablissement_livre"= "backoffice-3",
-        "Produits"= [
-        {"product_ID"=3, "product_quantity"=21},
-        {"product_ID"=2, "product_quantity"=2},
-        {"product_ID"=1, "product_quantity"=398}
+        "Ref_commande":3,
+        "etablissement_livre": "backoffice-3",
+        "Produits": [
+        {"product_ID":3, "product_quantity":21},
+        {"product_ID":2, "product_quantity":2},
+        {"product_ID":1, "product_quantity":398}
         ]
         }
     </message>

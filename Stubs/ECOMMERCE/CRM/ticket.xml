@@ -2,7 +2,7 @@
 <stub>
     <name>sales_stub</name>
     <!-- queue a changer avec votre nom -->
-    <type queueName="ticket_caisse">asynch</type>
+    <type queueName="ECOMMERCE_ticketCaisse">asynch</type>
     <message>
         {
         "client_id": 1,

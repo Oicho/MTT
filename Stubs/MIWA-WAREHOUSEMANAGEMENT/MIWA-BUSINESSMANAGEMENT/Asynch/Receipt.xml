@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>Receipt for BusinessMangement when the provider send livraison</name>
-    <type queueName="BMReceipts">asynch</type>
+    <type queueName="WAREHOUSE_Receipts">asynch</type>
     <message>{
         "commande_ID":1,
         "status":"OK"

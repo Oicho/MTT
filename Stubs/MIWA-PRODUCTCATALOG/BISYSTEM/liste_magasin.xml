@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>liste_magasin_stub</name>
-    <type queueName="liste_magasinBI">asynch</type>
+    <type queueName="PC_listeMagasin">asynch</type>
     <message>
         {
         "liste_magasin" : [{
