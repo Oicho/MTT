@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <stub>
     <name>liste_produit_stub</name>
-    <type queueName="catalogue_produit">PC_listeProduit</type>
+    <type queueName="PC_listeProduit">PC_listeProduit</type>
     <message>
 {
 	"liste_produit" : [{
