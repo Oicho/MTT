@@ -8,16 +8,18 @@
 			"reference_produit" : "0000001",
 			"designation_produit" : "designation_produit_1",
 			"description_produit" : "description_produit_1",
-			"prix_global_produit" : "100",
-			"promotion_globale_produit" : "10",
-			"categorie_produit" : "categorie_produit_1"
+			"prix_global_produit" : 100,
+			"promotion_globale_produit" : 10.0,
+			"categorie_produit" : "categorie_produit_1",
+			"url_produit" : "http://csimg.webmarchand.com/srv/FR/290618163293/T/340x340/C/FFFFFF/url/stash-cannette-coca.jpg"
 		}, {
 			"reference_produit" : "0000005",
 			"designation_produit" : "designation_produit_5",
 			"description_produit" : "description_produit_5",
-			"prix_global_produit" : "500",
-			"promotion_globale_produit" : "5",
-			"categorie_produit" : "categorie_produit_5"
+			"prix_global_produit" : 500,
+			"promotion_globale_produit" : 5.0,
+			"categorie_produit" : "categorie_produit_5",
+			"url_produit" : "http://img1.lesnumeriques.com/produits/291/19940/m8_htc_one-5331c6eaf183f.jpg"
 		}
 	]
 }
