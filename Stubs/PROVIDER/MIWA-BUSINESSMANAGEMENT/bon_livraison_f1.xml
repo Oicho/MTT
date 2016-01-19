@@ -3,22 +3,21 @@
     <name>bon_livraison_f1</name>
     <type queueName="PROVIDER_livraison">asynch</type>
     <message>{
-        "fournisseur_id" : "Fournisseur1",
-        "id_livr" : 33,
-        "date_de_livraison" : "11:00 06/02/2062"
-        "articles" : [{
-        "article_id" : "POM001",
-        "price_unit" : 3.0,
-        "quantity" : 1000,
-        "price_total" : 3000.0
+        "fournisseur_id": "Fournisseur1",
+        "id_livr": 33,
+        "date_de_livraison": "11:00 06/02/2062",
+        "articles": [{
+        "article_id": "POM001",
+        "price_unit": 3.0,
+        "quantity": 1000,
+        "price_total": 3000.0
         }, {
-        "article_id" : "POM002",
-        "price_unit" : 5.0,
-        "quantity" : 200,
-        "price_total" : 1000.0
-        }
-        ],
-        "price_total" : 4000.0,
+        "article_id": "POM002",
+        "price_unit": 5.0,
+        "quantity": 200,
+        "price_total": 1000.0
+        }],
+        "price_total": 4000.0
         }
     </message>
 </stub>
